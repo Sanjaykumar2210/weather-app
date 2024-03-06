@@ -1,8 +1,8 @@
-# [React Weather App]
+# React Weather App
 
 This is a simple weather application built with React.js that allows users to get current weather information for a specific location. The application retrieves weather data from a weather API and displays it in a user-friendly interface.
 
-![image]()
+![image](src/Components/Assets/Screenshot (42).png)
 
 ## Features
 -Current Weather: Get real-time weather updates for any location.
@@ -19,7 +19,7 @@ This is a simple weather application built with React.js that allows users to ge
 
 ## To Contribute
 
-- Open a [new issue](https://github.com/abhijit49/E-Commerce-Website-CARA-/issues/new)
+- Open a [new issue]
 - Fork this repo
 - Create a new branch 
 - Write code and push your code in your forked repo branch.

@@ -5,6 +5,7 @@ This is a simple weather application built with React.js that allows users to ge
 
 
 ## Features
+
 -Current Weather: Get real-time weather updates for any location.
 -Location Search: Search for weather information by entering a city name or ZIP code.
 -Detailed Weather Information: View detailed weather information including temperature, humidity, wind speed, and weather conditions.
@@ -12,6 +13,7 @@ This is a simple weather application built with React.js that allows users to ge
 
 
 ## Tech Used
+
 -React.js: A JavaScript library for building user interfaces.
 -Weather API: Integration with a weather API to fetch current weather data.
 -HTML5 & CSS3: Used for structuring and styling the application.
@@ -28,10 +30,13 @@ This is a simple weather application built with React.js that allows users to ge
 ## Demo link
 -
 
+![Screenshot (42)](https://github.com/Sanjaykumar2210/weather-app/assets/112607521/1657d718-ae31-4220-99e9-e2c2c431ce1f)
+
 ## Support
 1. Report bug/issue
 2. Suggest new feature
 3. Star this repository
+   
 
 
 <hr/>

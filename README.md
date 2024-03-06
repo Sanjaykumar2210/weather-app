@@ -2,7 +2,7 @@
 
 This is a simple weather application built with React.js that allows users to get current weather information for a specific location. The application retrieves weather data from a weather API and displays it in a user-friendly interface.
 
-![image](src/Components/Assets/Screenshot (42).png)
+![Screenshot (42)](https://github.com/Sanjaykumar2210/weather-app/assets/112607521/1657d718-ae31-4220-99e9-e2c2c431ce1f)
 
 ## Features
 -Current Weather: Get real-time weather updates for any location.
